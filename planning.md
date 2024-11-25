@@ -63,11 +63,12 @@ High competition- The travel industry is massively competitive to where thousand
 - Our website will have Language Selection Options: Allowing users to easily switch between languages using a dropdown menu, language toggle, or flags
 - Our website will contain either forums or community spaces that welcome and encourage interaction between users from various cultures. This could be the means for recommendations to be given.
 - Locals and Tourists will have the option to plan their trips with personalized itineraries.
-- HTML, CSS, and Javascript (through tools such as Socket.IO or angular) tecgnologies will be utilised to create this website.
+- HTML, CSS, and Javascript (through tools such as Socket.IO or angular) technologies will be utilized to create this website.
 - Our website will utilize information provided on Open Gov data to suggest locations/maps, things to do, etc... 
 - Web app hosting and offline access to essential maps and guides.
 - Web links to popular locations/sites and their reviews.
  
-![Multi-cultural Tourist information Website context diagram](images\ContextDiagram.png)
+![Multi-cultural Tourist information Website context diagram](https://github.com/MinaCien/Uni-Trials/blob/main/images/ContextDiagram.png?raw=true)
+
 
 
